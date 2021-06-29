@@ -7,5 +7,7 @@ public interface User  {
 
      void c();
 
+	 void d();
+
      void e();
 }
