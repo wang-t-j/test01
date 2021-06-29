@@ -4,4 +4,6 @@ public interface User  {
      void a();
 
      void b();
+
+     void c();
 }
